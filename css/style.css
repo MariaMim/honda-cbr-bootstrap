@@ -1,0 +1,22 @@
+.bg-header{
+    background-color: #264653;
+}
+.colored-text{
+    /* font-family: poppins; */
+    color: #E76F51 ;
+    font-weight:;
+}
+.btn-honda{
+    background-color: #ff7f50;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+}
+ .fa-star.filled{
+    color: #ff7f50;
+ }
+ .fa-star.empty{
+     color:#928b8b;
+ }
